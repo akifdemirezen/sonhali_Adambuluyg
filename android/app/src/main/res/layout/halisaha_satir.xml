@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_halisahasatiradi"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textSize="18sp"
+        android:textStyle="normal|bold"
+        android:paddingLeft="10dp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_halisahasatir_adres"
+        android:textAppearance="@style/TextAppearance.AppCompat.Button"
+        android:textStyle="normal|bold"
+        android:textSize="18sp"
+        android:paddingLeft="10dp"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:text="        "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_bosluk"
+        android:layout_marginTop="5dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="15dp">
+
+        <Button
+            android:id="@+id/btn_resim"
+            android:background="@drawable/tel"
+            android:layout_height="30dp"
+            android:layout_marginTop="5dp"
+            android:focusable="false"
+            android:layout_weight="1"
+            android:layout_marginStart="10dp"
+            android:layout_width="45dp" />
+
+        <TextView
+            android:text="TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_halisahasatir_tel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:textStyle="normal|bold"
+            android:textSize="18sp"
+            android:paddingLeft="10dp"
+            android:layout_marginTop="3dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+</LinearLayout>

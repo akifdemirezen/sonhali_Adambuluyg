@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <string-array name="Arnavutköy">
+        <item> Halısaha Adı : Otağ  Halı Saha  Adres : Bağlar Meydanı  Tel : 0212 682 11 66 aaaaa</item>
+
+        <item> Halısaha Adı : Karadeniz Spor Tesisleri  Adres : Fatih cad. M.Kemal paşa mah. No:151/A (Kongu petrol yanı)  Tel : (212)597-32-06 aaaaa</item>
+
+
+
+    </string-array>
+
+    <string-array name="Ataşehir">
+        <item> Halısaha Adı : Ferhatpaşa Halı Saha  Adres : Ferhatpaşa Mah. Akdeniz Cad. G-49 Sk. Ataşehir/İSTANBUL  Tel : 0216 471 49 12 aaaaa</item>
+
+        <item> Halısaha Adı : Tac Halı Saha  Adres : Ataşehir/İSTANBUL  Tel : 0216 576 90 50 aaaaa</item>
+
+        <item> Halısaha Adı : Garden Park Halı Saha  Adres : Barbaros Mah. Lale Sok. No.1/A-B ATAŞEHİR İSTANBUL  Tel : 0216 688 24 24-25 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Avcılar">
+        <item> Halısaha Adı : Avcılar Olimpik Halı Saha  Adres : Esenyurt yolu No:78   Firuzköy – Avcılar  Tel : 0 (212) 428 10 90 aaaaa</item>
+
+        <item> Halısaha Adı : Marmara Halı Saha  Adres : Londra Asfaltı No:71  Avcılar Merkez, Avcılar, İstanbul - Avrupa  Tel : 0216 576 90 50 aaaaa</item>
+
+        <item> Halısaha Adı : Garden Park Halı Saha  Adres : Barbaros Mah. Lale Sok. No.1/A-B ATAŞEHİR İSTANBUL  Tel : 0216 688 24 24-25 aaaaa</item>
+
+        <item> Halısaha Adı : Maraton Halı Saha  Adres : Firuzköy Mah. Hasan Önal Cad. No: 162 Firuzköy, Avcılar  Tel : (212) 690 99 72  aaaaa</item>
+
+        <item> Halısaha Adı : Kardeşler Çim Halı Saha  Adres : Ambarlı Deniz Köşkler Mah. Sahil Yolu Avcılar   Tel : 0212 590 36 66 aaaaa</item>
+
+        <item> Halısaha Adı : Garden Park Halı Saha  Adres : Barbaros Mah. Lale Sok. No.1/A-B ATAŞEHİR İSTANBUL  Tel : 0216 688 24 24-25 aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Bağcılar">
+        <item> Halısaha Adı : Doğuş Halı Saha  Adres : Sakarca sok. Nafiz - Hafize Hançer Parkı Yanı BAĞCILAR  Tel : 0212 515 90 94 aaaaa</item>
+
+        <item> Halısaha Adı : Ayar Halı Saha  Adres : Kocasinan Merkez Mah. Pınar Sk. No:15 Bahçelievler – İSTANBUL  Tel : 0 (212) 630 50 65 aaaaa</item>
+
+        <item> Halısaha Adı : Garden Park Halı Saha  Adres : Barbaros Mah. Lale Sok. No.1/A-B ATAŞEHİR İSTANBUL  Tel : 0216 688 24 24-25 aaaaa</item>
+
+        <item> Halısaha Adı : Cihan Halı Saha  Adres : İnönü Mah.Bağcılar  Tel : 0212 445 08 27  aaaaa</item>
+
+        <item> Halısaha Adı : Oktay Halı Saha  Adres : Gençosman M. Çinçin Deresi No:56 Güngören, İstanbul Avr.  Tel : 212 568 54 52 aaaaa</item>
+
+        <item> Halısaha Adı : Cfs Bağcılar Halı saha  Adres : Göztepe mah.karanfil sok.no:62.Bağcılar  Tel : 0 (212) 446 20 47   aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Bahçelievler">
+
+        <item> Halısaha Adı : Burak Halı Saha  Adres : Üzeyir Ağa Sok., İstanbul Tel : (0212) 651 9415 aaaaa</item>
+
+        <item> Halısaha Adı : Çağrı Halı Saha  Adres : Yenibosna Karayolu Kocasinan Merkez Mah. Bahçelievler  Tel : 0 212 550 59 70 aaaaa</item>
+
+        <item> Halısaha Adı : Sena Halı Saha  Adres : E-5 Karayolu Çobançeşme Tel : 0 212 465 80 80 aaaaa</item>
+
+        <item> Halısaha Adı : Ekol Halı Saha  Adres : ORDU CAD. NO:1 BAĞLAR LİSESİ / KOCASİNAN MERKEZ  Tel : 0212) 551 70 80 aaaaa</item>
+
+        <item> Halısaha Adı : Bahçelievler Olimpik Halı Saha  Adres : Soğanlı Mah. Reşitpaşa Cad.  Tel : (212) 555 91 61 aaaaa</item>
+
+        <item> Halısaha Adı : Vip Suni Cim Spor  Adres : Sancaklı Cad. Öznur Sok. No:49 Bahçelievler Merkez  Tel : 0 212 507 79 01  aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Beylikduzu">
+
+        <item> Halısaha Adı : ALLSTAR HALI SAHA  Adres : Esenkent, Migros, 34510 Esenyurt/İstanbul  Tel : (0212) 871 02 36 aaaaa</item>
+
+        <item> Halısaha Adı : Beylikdüzü Halı saha   Adres : Cumhuriyet Mah. Derviş Eroğlu Cad. Bizimkent YanıBeylikdüzü/İstanbul  Tel : (212) 873 77 74 aaaaa</item>
+
+        <item> Halısaha Adı : Arena Halı saha  Adres : Beysan San. Sit. Birlik Cad. No:14 Haramidere  Beylikdüzü / İSTANBUL  Tel : 0212 422 72 61 aaaaa</item>
+
+        <item> Halısaha Adı :  Siteler Halı saha  Adres : Gürpınar, siteler, 34528 Beylikdüzü, İstanbul Tel : 0212) 880 5378 aaaaa</item>
+
+        <item> Halısaha Adı : Ada Park Halı Saha  Adres : Marmara Mah. 105. Sk. KadirTopbaş Parkı Ada park Sosyal Tesisleri YAKUPLU-BEYLİKDÜZÜ Tel : 212 875 55 85  aaaaa</item>
+
+        <item> Halısaha Adı : Hakan Ünsal Halı Saha  Adres : Marmara Mahallesi İhlas Marmara Evleri 1. Kısım Sitesi  Tel : 0212 876 58 58  aaaaa</item>
+
+        <item> Halısaha Adı : Playdrome Spor Kulübü  Adres : Kavaklı Mahallesi, Gürpınar Cd. No:41, 34500 Beylikdüzü Osb/Beylikdüzü/İstanbul Tel : (0212) 856 11 00  aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Bakırköy">
+
+        <item> Halısaha Adı : İstiklal Halı Saha Adres : Osmaniye Mah. İsmail Araz Bulvarı, No:5 Bakırköy  Tel : (212) 583 79 09 aaaaa</item>
+
+        <item> Halısaha Adı : Çiroz Halı saha   Adres : Çiroz Parkı Yeşilköy Bakırköy. Tel : (212) 662 18 62 aaaaa</item>
+
+        <item> Halısaha Adı : Atakoy Halı Saha  Adres :  9.Kısım Ataköy  Tel : (212) 560 00 42 aaaaa</item>
+
+        <item> Halısaha Adı :  Doğa Trustık Halı saha  Adres : SAHİL YOLU CD.YEŞİLYURT SPOR KLB.YANI YEŞİLYURT Tel : 0212 663 40 68 aaaaa</item>
+
+        <item> Halısaha Adı :  Fair Play Halı saha  Adres : KARTALTEPE MH.KÜÇÜK BAĞLAR SK.NO:59.Bakırköy, İstanbul Avr Tel : 0212 572 18 93 aaaaa</item>
+
+        <item> Halısaha Adı : Yeda Halı Saha  Adres : Kartaltepe Mah.Yakup Şevki Sok. No:2Bakırköy, İstanbul  Tel :(0212) 583 02 89 aaaaa</item>
+
+        <item> Halısaha Adı : SELİM PARS SPOR TESİSLERİ  Adres :SELİM PARS SK.NO:4 FLORYA Tel : (212) 663 28 15  aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Başakşehir">
+
+        <item> Halısaha Adı : Başak Halı Saha  Adres : Başakşehir Mah. Başakşehir 2. Etap İkitelli Tel : 0 212 485 29 57  aaaaa</item>
+
+        <item> Halısaha Adı :  Gökkuşağı Halı Saha : Başakşehir 4.etep 1.kısım No:34 Başakşehir Tel : (212) 488 36 06 aaaaa</item>
+
+        <item> Halısaha Adı : Başak Park Spor Tesisleri  Adres :  Başakşehir 2.Etap İkitelli Küçükçekmece  Tel : 0212 485 84 40 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Bayrampaşa">
+
+        <item> Halısaha Adı : Mega Halı Saha  Adres : Kocatepe Mah. ŞehirParkı Cad. Tel :  0212 640 70 70 aaaaa</item>
+
+        <item> Halısaha Adı :  Arena Halı Saha Adres : 	Yenidoğan Mah. Apdi İpekçi Cad. No:94  Tel : 0(212) 576 39 42  aaaaa</item>
+
+        <item> Halısaha Adı : Okan Buruk Halı Saha Adres : Abdi İpekçi Caddesi Cicoz Yolu Kaymakamlık Binası Arkası  Tel : 0 212 544 52 52 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Beşiktaş">
+
+        <item> Halısaha Adı : Natural Park Etiler Halı saha  Adres : Ebulullah Mardin Cad. No:2 /1  1.Levent / İSTANBUL Tel :  0 212 352 70 65 aaaaa</item>
+
+        <item> Halısaha Adı : Akatlar Halı Saha  Adres : Akatlar Mah. Yıldırım Oğuz Göker Cad.Gelincik Sok. No: 2/12 Beşiktaş Tel : 0(212) 281 1748 aaaaa</item>
+
+        <item> Halısaha Adı : Muradiye Halı saha Adres : Dikilitaş Mahallesi Emirhan Caddesi 34349 Beşiktaş  Tel : (212) 227 62 93 aaaaa</item>
+
+        <item> Halısaha Adı : Demirler Spor Tesisleri Adres : Şirintepe Mah. Acıyonca Sok. No:44  Levent, Beşiktaş,  Tel : 0 212 268 15 25 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Beykoz">
+
+        <item> Halısaha Adı : Kavacık Halı Saha  Adres : Çakırbeyler Sk. No:1 Çıksalın Meydanı   Tel : 212 369 11 26 aaaaa</item>
+
+        <item> Halısaha Adı : Kucuk Piyale Halı saha  Adres : Beyoğlu Piyalepaşa BulvarıKüçükpiyale Tel : (0212) 237 27 24 aaaaa</item>
+
+        <item> Halısaha Adı : Omka Halı Saha  Adres : Elmalı Köyü M.akif Ersoy Mah. No:107 Beykoz  Tel : 0 216 440 00 23 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Beyoğlu">
+
+        <item> Halısaha Adı : Çıksalın Halı Saha Adres : Otağtepe Cad. No:12 Kavacık  Tel :  0216 668 01 47 aaaaa</item>
+
+        <item> Halısaha Adı : Yunus Emre Halı Saha  Adres : Sarıkaya Caddesi No:8 Paşabahçe Tel : 0505 883 6909 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Çatalca">
+
+        <item> Halısaha Adı : Erguvan Halı Saha Tesisleri Adres :Ferhatpaşa Mahallesi İstasyon Caddesi Yeldeğirmeni Sokak  Tel :  0 212 789 48 06 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Çekmeköy">
+
+        <item> Halısaha Adı : Teras Halı Saha Adres : 	Cumhuriyet Ma. Onur Sok. No:1 Taşdelen  Tel : 0537 414 3295 aaaaa</item>
+
+        <item> Halısaha Adı : Alemdağ HALI SAHA  Adres : Alemdağ Merkez Mah. Havacılar Caddesi 126. Sokak No: 13 Alemdağ Tel :  0216 484 11 84 aaaaa</item>
+
+        <item> Halısaha Adı : Ömerli Spor Tesisleri   Adres : Ömerli Mahallesi Cumhuriyet Caddesi Ladin Sokak No:1  Tel : 0216 435 80 40 aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Esenler">
+
+        <item> Halısaha Adı : Topcuoglu Halı Saha  Adres : Çinçinderesi Kazım Karabekir Mah.   1042.Cad. No:71  Tel : (212) 647 3939 aaaaa</item>
+
+        <item> Halısaha Adı : Esenler Mka Halı saha  Adres : Esenler mh. Nazlı sk.   Tel : (212) 294 65 49 aaaaa</item>
+
+        <item> Halısaha Adı : Kuvvetli Çim Halı Saha   Adres : Nene Hatun Mh Cincin Deresi Esenler  Tel : 0212 610 6635 aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Esenyurt">
+
+        <item> Halısaha Adı : Gaziler Parkı Halı Saha  Adres : Mehterçeşme Mah. Gaziler PARKI Tel : 0212 620 09 91 aaaaa</item>
+
+        <item> Halısaha Adı : Erkan Spor Tesisleri  Adres : 666. Sok. No: 1 Yenikent Mh.    Tel : (0212) 596 6663 aaaaa</item>
+
+        <item> Halısaha Adı : Esenyurt Futbol Center  Adres : Talatpaşa Mah.Fatih Sultan Mehmet Cad.1047.Sok No:38  Tel : 212 620 38 88 aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Eyüp">
+
+        <item> Halısaha Adı :Dinarsu Halı Saha  Adres :  Fethi Çelebi Cad. No:45 Eyüp, İstanbul Avr. Tel : 0212 532 64 20 aaaaa</item>
+
+        <item> Halısaha Adı : ALİBEYKÖY PARSELLER  Adres : Cengiz Topel Cad. Pelevne Sok. 34070    Tel : 0212 427 05 64 aaaaa</item>
+
+        <item> Halısaha Adı : Akşemsettin Halı Saha Tesisi   Adres : Akşemsettin Mah.Arı Sok.No:24/b Alibeyköy  Tel : 0212 427 49 58 aaaaa</item>
+
+        <item> Halısaha Adı : Otakcılar Lisesi Halı Saha  Adres : Cebecibaşı Cd. No:21 Eyüp  Tel : 0212 532 31 30 aaaaa</item>
+
+        <item> Halısaha Adı : Pierre Loti Halısahası   Adres : İdris Köşkü Cad. No:1 Eyüp  Tel : 0212 418 79 67 aaaaa</item>
+
+        <item> Halısaha Adı : Yeşilpınar Halı Saha   Adres : Yeşilpınar Mah.Girne Cad No:121 Eyüp  Tel : 0212 538 74 73 aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Fatih">
+
+        <item> Halısaha Adı : Uzunyusuf Halı Saha  Adres : UzunYusuf Mah. Evliya Ata Sk.  Nu: 32-34   Tel : 0212. 587 21 40  aaaaa</item>
+
+        <item> Halısaha Adı : Görkem Halı Saha  Adres : İmam Sok. No:4, Kocamustafapaşa    Tel : 0212 587 3919 aaaaa</item>
+
+        <item> Halısaha Adı : STİL ÇİZGİ HALI SAHA  Adres : Yenikapı İskeleler Arası Sahil Kesim K.M.Paşa  Tel : 0212 427 49 58 aaaaa</item>
+
+        <item> Halısaha Adı : ZİGANA SPOR TESİSLERİ   Adres : HACI PİRİ CAD. NO:73 / 2 HACI   Tel : (0212) 530 44 10 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Gaziosmanpaşa">
+
+        <item> Halısaha Adı : Valide Suyu Halı saha Adres : Kazımkarabekir mah. Kemal şeker bulvarı no:48   Tel : 0212 477 74 61  aaaaa</item>
+
+        <item> Halısaha Adı : Tezmak Halı Saha  Adres : Küçükköy Cebeci Cd. No:84   Tel : 0212 538 00 015 aaaaa</item>
+
+        <item> Halısaha Adı : Küçükköy Halı saha Adres :  Yeni Mh.527 Sk. No:44 Gaziosmanpaşa  Tel : 0212 538 03 18 aaaaa</item>
+
+        <item> Halısaha Adı : Kazım Karabekir Halısaha    Adres : Mevlana mah 874/1 sok no 1   Tel : 0212 419 58 91 aaaaa</item>
+
+        <item> Halısaha Adı : ALBAYRAK SPOR TESİSLERİ	    Adres : Hekimsuyu Cad. No: 79 34255 / Mevlana  Tel : 0212 538 43 43 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Güngören">
+
+        <item> Halısaha Adı : Lider Halı Saha Tesisi Adres : Gençosman M. Çinçin Dere C Topçu S. No:22 Güngören  Tel : 212 562 80 80  aaaaa</item>
+
+        <item> Halısaha Adı : Şampiyon 90 Halı Saha  Adres : Gençosman M. Çinçin Dere C. No:2 Güngören   Tel : 212 569 06 12 aaaaa</item>
+
+        <item> Halısaha Adı : Bestspor Halı Saha  Adres :  Bahçelievler Mah. Bahçelievler Mah.Güngören  Tel : 0212 502 50 50  aaaaa</item>
+
+        <item> Halısaha Adı :Ünal Çim Halı Saha     Adres : Sanayi Mh.Cincin Deresi No:1 Güngören  Tel : 212 556 09 78 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Kadıköy">
+
+        <item> Halısaha Adı : Kılıç Halı Saha Adres : Bostancı Lunapark Arkası, Bostancı, Istanbul, Turkey  Tel : 0216 380 22 02  aaaaa</item>
+
+        <item> Halısaha Adı : Köymenler Halı Saha  Adres : Göztepe Mh., Karanfil Sk, 34730   Tel : (216) 386-1010  aaaaa</item>
+
+        <item> Halısaha Adı : Kalamış Halı saha  Adres :  Münir Nurettin Selçuk Cad.  Tel :  0216 3497768  aaaaa</item>
+
+        <item> Halısaha Adı : Clup Sporıum Halı saha    Adres : Bostancı Club Sporium Tesisleri, Bostancı  Tel : (216) 380-3021 aaaaa</item>
+
+        <item> Halısaha Adı : Biral Halı saha     Adres : Prof. Dr. Hıfzı Özcan Cd. 4No Çiçek Kent Sk. No:2 Küçükbakkalköy   Tel : 0533 934 28 48 aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Kağıthane">
+
+        <item> Halısaha Adı : Gultepe Halı Saha Adres : Talatpaşa Caddesi. Hudut Sokak. No: 4 Gültepe  Tel : 212 283 62 40 aaaaa</item>
+
+        <item> Halısaha Adı : Ay-Tu Halı Saha  Adres : Ay-Tu Halı Saha Hamidiye mahallesi Anadolu Cad. Kâğıthane   Tel : 0 (212) 295 63 87 aaaaa</item>
+
+
+    </string-array>
+    <string-array name="Kartal">
+
+        <item> Halısaha Adı : Kartal Halı Saha Adres : Kordon Boyu Mah. Turgut Özal Sahil Bulvarı No:89  Tel : 0216-389-01-47 aaaaa</item>
+
+        <item> Halısaha Adı : Bulvar Halı Saha  Adres : Karlıktepe Mah. Arda Sok. No:14 Kart  Tel : 0216- 389-18-89 aaaaa</item>
+
+        <item> Halısaha Adı : Ayazma Halı Saha	Adres : Kartal Yolu Üzerinde Yakacık Meydanı Üstü Ayazma Caddesi Yolunda  Tel : (0216) 309 3159 aaaaa</item>
+
+        <item> Halısaha Adı : Cihat  Arman Spor Tesisleri  Adres : Cumhuriyet Mah. Seza Sk. No:1 Yakacık-Kartal  Tel : 0216-452-25-25 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Küçükçekmece">
+
+        <item> Halısaha Adı : BAŞAK PARK SPOR TESİSLERİ Adres : BAŞAKŞEHİR 2.ETAP İKİTELLİ  Tel : (212) 485 84 40 aaaaa</item>
+
+        <item> Halısaha Adı : KANARYA SPOR KULÜBÜ SPOR TESİSİ	Adres : FLORYA CD.BARBAROS SK.YUNUS EMRE OKULU ARKASI KANARYA  Tel : 0216- 389-18-89 aaaaa</item>
+
+        <item> Halısaha Adı : Ayazma Halı Saha	Adres : Kartal Yolu Üzerinde Yakacık Meydanı Üstü Ayazma Caddesi Yolunda  Tel : (212) 580 35 05 aaaaa</item>
+
+        <item> Halısaha Adı : SEÇKİN MARAKANA HALI SAHA TESİSİ	  Adres : İNÖNÜ MAH.MUAMMER AKSOY CAD.SEDEF TIR GARAJI YANI  Tel : (212) 471 58 15 aaaaa</item>
+
+        <item> Halısaha Adı : DÖRTLER HALI SAHA	Adres : Kartal Yolu Üzerinde Yakacık Meydanı Üstü Ayazma Caddesi Yolunda  Tel : (212) 580 35 05 aaaaa</item>
+
+
+
+    </string-array>
+
+    <string-array name="Maltepe">
+
+        <item> Halısaha Adı : Tempo Halı Saha Adres : HATBOYU SOK. NO:4 İSTAŞ YANI / FEYZULLAH   Tel :  0216) 352 43 18 aaaaa</item>
+
+        <item> Halısaha Adı : Köymenler Halı Saha  Adres : Göztepe Mh., Karanfil Sk, 34730   Tel : (216) 386-1010  aaaaa</item>
+
+        <item> Halısaha Adı : Ayışığı Halı Saha  Adres : ALTAYÇEŞME M.KİRAZ SOK.NO:10  Tel :  0216 457 57 52  aaaaa</item>
+
+        <item> Halısaha Adı :Aydınlar Halı Saha    Adres : 1562 Ada, Hafız İsa Sok. No:15, Küçükyalı  Tel : 0216 366 59 92 aaaaa</item>
+
+        <item> Halısaha Adı : ATAK SPOR TESİSLERİ    Adres : GÜLSUYU MEVKİİ BURÇAK SK.NO:10   Tel : 0216 376 18 aaaaa</item>
+
+    </string-array>
+
+
+    <string-array name="Pendik">
+
+        <item> Halısaha Adı :GÜZELYALI HALI SAHA  Adres : Ener Sokak, 34000 Pendik,  Tel : 0216 493 11 61  aaaaa</item>
+
+        <item> Halısaha Adı :Aydın Oral Halısaha   Adres : çamlık mahalesi selçuklu cadesi fidan sokak no 2    Tel : 0216 496 55 45  aaaaa</item>
+
+        <item> Halısaha Adı : Pendik Sahil Spor Tesisleri  Adres :  Pendik Sahil Gül Sokak PENDİK  Tel : 0216 390 49 99  aaaaa</item>
+
+        <item> Halısaha Adı :  Kurtköy Halı Saha Tesisleri    Adres : Kurtköy mah.Hayati üstün cad. no:17    Tel : 0216 595 30 77 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Sancaktepe">
+
+        <item> Halısaha Adı : Teras Halı Saha
+  Adres : 	Cumhuriyet Ma. Onur Sok. No:1 Taşdelen  Tel : 0216 493 11 61  aaaaa</item>
+
+        <item> Halısaha Adı : Rıdvan Dilmen Halı Saha   Adres :Mandıra Cad. 34791 / Yenidoğan   Tel : 0216 484 60 97 aaaaa</item>
+
+
+    </string-array>
+
+
+    <string-array name="Sarıyer">
+
+        <item> Halısaha Adı :  İstinye Spor Tesisleri  Adres : Emirgan Cad. No:152-İstinye  Tel : 0212-323-64-18  aaaaa</item>
+
+        <item> Halısaha Adı :  Derbent Halı Saha	  Adres : Mevlana Parkı Dernet Otobüsleri Son Durağı  Tel : 0212/299/75/85  aaaaa</item>
+
+        <item> Halısaha Adı : Tarabya Halı Saha  Adres :  Arabayolu Cad. Fidan Sok. No:1 Taraya-İstanbul Tel : 0212 299 40 80  aaaaa</item>
+
+        <item> Halısaha Adı :  Baltalimanı Halı Saha    Adres : Baltalimanı Kemik Hastanesi Karşısı  Tel : 0212/229/09/42 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Silivri">
+
+        <item> Halısaha Adı : Agena Halı saha  Adres : Siliviri örnek mh.  Tel : (212) 728 81 82 aaaaa</item>
+
+        <item> Halısaha Adı :  Silivri Gümüş Halı saha	  Adres : CELALİYE M. GÜVERCİNLİK C. SUMRU S. NO:1 Silivri  Tel :(212) 731 73 05  aaaaa</item>
+
+        <item> Halısaha Adı : Abelia Halı Saha	  Adres : Yeni Mahalle Erkin Balaban Cad. Silivri Tel : 0212 728 35 00 aaaaa</item>
+
+
+
+    </string-array>
+
+    <string-array name="Sultanbeyli">
+
+        <item> Halısaha Adı :ÖZAYDIN HALI SAHA TESİSİ  Adres : AHMET YESEVİ M. BİBERLİK C. HALI S.  Tel : 0216 592 04 93 aaaaa</item>
+
+        <item> Halısaha Adı :  Ülker halı Saha	  Adres : M.Akif Ersoy Mah.Güneş Cad. No:37 / A Sultnbeyli  Tel :  0216 398 96 86  aaaaa</item>
+
+        <item> Halısaha Adı :  Cihan Halı Saha		  Adres :  Adil Mah. Sultanbeyliği cad.Tel : 0216 592 80 53  aaaaa</item>
+
+
+
+    </string-array>
+
+
+    <string-array name="Sultangazi">
+
+        <item> Halısaha Adı : SEYİT ATEŞ SPOR TESİSLERİ  Adres : 34265 CUMHURİYET MH NECİP FAZIL CD No:41 SULTANGAZİ  Tel : 0212 476 04 62 aaaaa</item>
+
+        <item> Halısaha Adı : Sultangazi Arena Halı Saha  Adres : Esentepe Mh. Ahmet Yesevi Cd. No 60 Tel :  0(212) 606 02 27 aaaaa</item>
+
+    </string-array>
+
+
+    <string-array name="Şile">
+
+        <item> Halısaha Adı : Olimpia Halı Saha  Adres : Şile, Eski Ağva Yolu Sk, Çvş., İstanbu  Tel : 0216 711 41 00 aaaaa</item>
+
+
+    </string-array>
+
+    <string-array name="Şişli">
+
+        <item> Halısaha Adı : Şişli Halı Saha Adres : Duatepe Mah. Baruthane Cad. Evonozzade Sok. No:48 ŞİŞLİ  Tel : 0212 247 12 61 aaaaa</item>
+
+        <item> Halısaha Adı : Feriköy Spor Kulübü Halı Saha  Adres :	Duatepe Mah. Baruthane Cad.   Evonozzade Sok. No:48      ŞİŞLİ Tel :  0(212) 606 02 27 aaaaa</item>
+
+        <item> Halısaha Adı : Kuştepe Halı saha  Adres : 3Mesut Cemil Sok. No: 1 Şişli, 34822 İstanbul  Tel : 0212) 211 4320 aaaaa</item>
+
+        <item> Halısaha Adı :Maslak halı Saha  Adres :  Maslak/ İng Bank Karşısı  Tel :  0212- 276 58 42 aaaaa</item>
+
+    </string-array>
+
+    <string-array name="Tuzla">
+
+        <item> Halısaha Adı : Meslek Lisesi Halı Saha   Adres : Yayla Mahallesi Şinasi Dural Caddesi Fujiyama Sokak No:14 Tel : (0216) 446 01 09 aaaaa</item>
+
+        <item> Halısaha Adı : Kaan Halı Saha  Adres :	Tuzla Merkez, Tuzla, İstanbul - Asya      Evonozzade Sok. No:48       ŞİŞLİ Tel : 0 216 393 10 10 aaaaa</item>
+        <item> Halısaha Adı : Fatih Halı Saha  Adres : Camii Mah. Şehitler Cad. Ulubay Sok. No:10 TUZLA  Tel : 216 447 03 53  aaaaa</item>
+
+
+
+    </string-array>
+
+    <string-array name="Üsküdar">
+
+        <item> Halısaha Adı : Şahin Halı Saha Tesisleri	   Adres : Abdullahağa Mah. Beybostan Sok. No:6 Beylerbeyi-İstanbul   Tel : 0216-422-54-54 aaaaa</item>
+
+        <item> Halısaha Adı : Şampiyon Halı Saha  Adres :	Abdullahaga Cad. Beybostan Sok. No:19 Beylerbeyi  Tel : 0216-422-55-46 aaaaa</item>
+        <item> Halısaha Adı :  Çengelkoy halı saha Adres : Çengelköy Mh.  34684 Üsküdar/Istanbul  Tel : 0216 318 1252  aaaaa</item>
+
+        <item> Halısaha Adı :  OLİMPİK SPOR TESİSİ  Adres : B.FELEK CD.NO:3 MARMARA ÜNİ.ARKASI Tel : 0216  349 39 91  aaaaa</item>
+
+
+
+    </string-array>
+
+    <string-array name="Zeytinburnu">
+
+        <item> Halısaha Adı : Çırpıcı Spor Tesisleri	   Adres : Çırpıcı Mh., 34021 Zeytinburnu/Istanbul   Tel : 0212 558 4702 aaaaa</item>
+
+        <item> Halısaha Adı : OLİMPİK HALI FUTBOL SAHASI  Adres :	10.YIL CD.NO:1 KAZLIÇEŞME  Tel : (212) 558 30 73 aaaaa</item>
+
+
+    </string-array>
+
+
+</resources>

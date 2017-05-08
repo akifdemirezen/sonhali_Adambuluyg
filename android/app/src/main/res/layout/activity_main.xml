@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgr"
+
+    tools:context="com.example.akif.halisaha_adam_bul.MainActivity">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:text="Adam Bul"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:id="@+id/textView5"
+            android:background="@drawable/txtarkaplan"
+            android:textSize="45sp"
+            android:textStyle="normal|bold"
+            android:textColor="#000000"
+            android:autoText="true"
+            android:allowUndo="true"
+            android:capitalize="words"
+            android:textAllCaps="true"
+            android:paddingLeft="90dp"
+            android:layout_above="@+id/et_Kullaniciadi"
+            android:layout_marginBottom="139dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignLeft="@+id/textView4"
+            android:layout_alignStart="@+id/textView4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginTop="78dp"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_height="80dp"
+        android:weightSum="1">
+
+        <TextView
+            android:text="KULLANICI ADI :"
+            android:id="@+id/textView3"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:background="@drawable/txtarkaplan"
+            android:textSize="18sp"
+            android:textStyle="normal|bold"
+            android:paddingTop="4dp"
+            android:paddingLeft="7dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignLeft="@+id/textView6"
+            android:layout_alignStart="@+id/textView6"
+            android:layout_width="150dp"
+            android:layout_marginLeft="20dp"
+            android:layout_height="30dp" />
+
+        <EditText
+            android:layout_height="30dp"
+            android:ems="10"
+            android:id="@+id/et_Kullaniciadi"
+            android:singleLine="false"
+            android:selectAllOnFocus="false"
+            android:inputType="textPersonName"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:background="@drawable/border"
+            android:textSize="18sp"
+            android:paddingLeft="10dp"
+            android:layout_above="@+id/textView4"
+            android:layout_toRightOf="@+id/textView4"
+            android:layout_toEndOf="@+id/textView4"
+            android:layout_marginLeft="50dp"
+            android:layout_weight="0.39"
+            android:layout_width="170dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/linearLayout3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="150dp"
+        android:layout_height="50dp">
+
+        <TextView
+            android:text="ŞİFRE                 :       "
+            android:id="@+id/textView4"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:background="@drawable/txtarkaplan"
+            android:layout_marginLeft="20dp"
+            android:layout_alignTop="@+id/et_sifre"
+            android:layout_alignParentStart="false"
+            android:layout_alignBottom="@+id/et_sifre"
+            android:paddingLeft="7dp"
+            android:textSize="18sp"
+            android:textStyle="normal|bold"
+            android:paddingTop="4dp"
+            android:layout_weight="1"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="false"
+            android:layout_width="20dp" />
+
+        <EditText
+            android:ems="10"
+            android:id="@+id/et_sifre"
+            android:selectAllOnFocus="false"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:background="@drawable/border"
+            android:textSize="18sp"
+            android:singleLine="false"
+            android:autoText="false"
+            android:inputType="textPassword"
+            android:layout_height="30dp"
+            android:paddingLeft="10dp"
+            android:layout_above="@+id/textView6"
+            android:layout_toLeftOf="@+id/btn_kayitol"
+            android:layout_toStartOf="@+id/btn_kayitol"
+            android:layout_weight="0.21"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="150dp" />
+    </LinearLayout>
+
+    <Button
+        android:text="GİRİŞ YAP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_girisyap"
+        android:textStyle="normal|bold"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="200dp"
+        android:layout_below="@+id/linearLayout5"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/btn_girisyap"
+        android:layout_above="@+id/btn_kayitol">
+
+        <TextView
+            android:text="ÜYE DEĞİLSENİZ KAYIT OLMAK İÇİN TIKLAYINIZ"
+            android:layout_width="match_parent"
+            android:id="@+id/textView6"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:background="@drawable/txtarkaplan"
+            android:textSize="18sp"
+            android:textStyle="normal|bold"
+            android:paddingLeft="75dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="0dp"
+            android:layout_height="50dp"
+            android:layout_above="@+id/textView3"
+            android:layout_alignRight="@+id/btn_girisyap"
+            android:layout_alignEnd="@+id/btn_girisyap"
+            android:layout_marginBottom="8dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            app:srcCompat="@drawable/warning"
+            android:id="@+id/imageView"
+            android:paddingTop="2dp"
+            android:paddingLeft="7dp"
+            android:adjustViewBounds="true"
+            android:layout_height="30dp"
+            android:layout_marginRight="331dp"
+            android:layout_marginEnd="331dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="8dp" />
+
+        <Button
+            android:text="KAYIT OL"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_kayitol"
+            android:textStyle="normal|bold"
+            android:layout_below="@+id/textView6"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="10dp"
+            android:layout_width="90dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
